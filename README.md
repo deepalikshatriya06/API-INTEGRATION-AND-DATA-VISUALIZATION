@@ -16,8 +16,7 @@
 
 #OUTPUT
 
-Enter City Name: DELHI
-
 Enter City Name: Delhi
+
 ![Image](https://github.com/user-attachments/assets/0ae65396-eb33-47bd-b198-0c7435b97688)
 
