@@ -16,6 +16,8 @@
 
 #OUTPUT
 
-Enter City Name: RAIPUR
+Enter City Name: DELHI
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95b1201f-ec6c-4ad3-9c8e-3e3ff392db23" />
+Enter City Name: Delhi
+![Image](https://github.com/user-attachments/assets/0ae65396-eb33-47bd-b198-0c7435b97688)
+
