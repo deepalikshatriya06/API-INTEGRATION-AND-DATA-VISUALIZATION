@@ -17,3 +17,5 @@
 #OUTPUT
 
 Enter City Name: RAIPUR
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95b1201f-ec6c-4ad3-9c8e-3e3ff392db23" />
